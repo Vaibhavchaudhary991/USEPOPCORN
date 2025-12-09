@@ -1,3 +1,48 @@
+🎬 USEPOPCORN – Your Personal Movie Watchlist App
+
+USEPOPCORN is a React-based movie discovery and watchlist application that allows users to search movies, view detailed information, and curate their own personalized watchlist. Users can rate movies, track their total watch time, and see average IMDb ratings along with their own rating statistics.
+
+🚀 Features
+
+🔍 Movie Search
+Search movies in real-time using an efficient and responsive UI.
+
+🎥 Movie Details
+View movie information such as poster, plot, IMDb rating, runtime, and more.
+
+⭐ User Ratings
+Allow users to give personal ratings to any selected movie.
+
+🎞️ Custom Watchlist
+Add or remove movies from your personal watchlist.
+
+⏱️ Total Watch Time Calculation
+Automatically calculates the combined runtime of all movies added to the watchlist.
+
+📊 Rating Insights
+Displays:
+
+Average IMDb rating of all movies in the watchlist
+
+User’s own average rating across all added movies
+
+⚡ Performance Optimized UI
+Built using React hooks and clean component architecture for a smooth experience.
+
+🛠️ Tech Stack
+
+React.js
+
+Custom Hooks
+
+REST API (OMDb or similar)
+
+CSS / Styled Components / Tailwind (as per your project)
+
+Local state management with hooks
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
